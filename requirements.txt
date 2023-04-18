@@ -1,3 +1,12 @@
+certifi==2022.12.7
+charset-normalizer==3.1.0
+docopt==0.6.2
+idna==3.4
+pipreqs==0.4.13
+requests==2.28.2
+six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-103/six-1.15.0-py2.py3-none-any.whl
+urllib3==1.26.15
+yarg==0.1.9
 numpy==1.16.3
 pandas==0.24.2
 opencv-python==4.1.0.25
@@ -13,4 +22,4 @@ IPython
 Flask==1.1.1
 fuzzywuzzy==0.18.0
 h5py==2.9.0
-gunicorn==19.7.1
+gunicorn==20.1.0
